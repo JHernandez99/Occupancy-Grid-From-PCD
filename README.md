@@ -1,4 +1,4 @@
-# occupancyGridFromPCD
+# Occupancy grid from Point Cloud
 Occupancy grid from point clouds with Python using Multiway Registration ICP methods from Open3D  
 
 See the file Nubes.py to generate the unified PCD from PCD dataset.  
